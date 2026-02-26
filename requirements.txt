@@ -1,3 +1,8 @@
 pandas
 pyarrow
-sklearn
+scikit-learn
+mlflow
+seaborn
+matplotlib
+xgboost
+hyperopt
