@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLOPS-Practice/02-MLflow_Practice/run_mlflows/mlruns/197971791565316766/e0f28529ec20416f8e4e5c2a3cdde20e/artifacts
+end_time: 1772121075855
+entry_point_name: ''
+experiment_id: '197971791565316766'
+lifecycle_stage: active
+run_id: e0f28529ec20416f8e4e5c2a3cdde20e
+run_name: whimsical-crab-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772121072659
+status: 3
+tags: []
+user_id: codespace

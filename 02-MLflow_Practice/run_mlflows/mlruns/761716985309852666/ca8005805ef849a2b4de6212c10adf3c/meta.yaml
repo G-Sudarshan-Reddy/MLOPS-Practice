@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLOPS-Practice/02-MLflow_Practice/run_mlflows/mlruns/761716985309852666/ca8005805ef849a2b4de6212c10adf3c/artifacts
+end_time: 1772121142495
+entry_point_name: ''
+experiment_id: '761716985309852666'
+lifecycle_stage: active
+run_id: ca8005805ef849a2b4de6212c10adf3c
+run_name: adaptable-tern-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772121140839
+status: 3
+tags: []
+user_id: codespace

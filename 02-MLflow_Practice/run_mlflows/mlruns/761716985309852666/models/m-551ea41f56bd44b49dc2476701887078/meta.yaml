@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/MLOPS-Practice/02-MLflow_Practice/run_mlflows/mlruns/761716985309852666/models/m-551ea41f56bd44b49dc2476701887078/artifacts
+creation_timestamp: 1772121172807
+experiment_id: '761716985309852666'
+last_updated_timestamp: 1772121174515
+model_id: m-551ea41f56bd44b49dc2476701887078
+model_type: null
+name: models
+source_run_id: 303d160aa22f4d348435436413e76020
+status: 2
+status_message: null
