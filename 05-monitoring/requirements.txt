@@ -2,11 +2,6 @@ pandas
 pyarrow
 scikit-learn
 mlflow
-seaborn
-matplotlib
-xgboost
-hyperopt
-
 prefect
 tqdm
 requests
